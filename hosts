@@ -1,5 +1,6 @@
 # If Pi-hole says a domain is invalid, it is not actually invalid.
 # Pi-hole seems flag special-character-containing domains as invalid, despite them being valid.
+
 0.0.0.0 discod-apps.ru
 0.0.0.0 dlscord.pro
 0.0.0.0 dilscordisgip.com
