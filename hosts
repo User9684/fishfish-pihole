@@ -1,6 +1,3 @@
-# If Pi-hole says a domain is invalid, it is not actually invalid.
-# Pi-hole seems flag special-character-containing domains as invalid, despite them being valid.
-
 0.0.0.0 discod-apps.ru
 0.0.0.0 dlscord.pro
 0.0.0.0 dilscordisgip.com
@@ -2385,7 +2382,7 @@
 0.0.0.0 moderators-academy-discord.com
 0.0.0.0 discord-gifts-steam.online
 0.0.0.0 discordl.com
-0.0.0.0 steamcommunìty.com
+0.0.0.0 xn--steamcommunty-sib.com
 0.0.0.0 steamcommunityril.top
 0.0.0.0 steancomrnunuty.ru
 0.0.0.0 discord-hypesquad.xyz
@@ -8647,7 +8644,7 @@
 0.0.0.0 stearncomnunlty.ru
 0.0.0.0 discorf.gift
 0.0.0.0 register-testers-academy-moderators.com
-0.0.0.0 disçordapp.com
+0.0.0.0 xn--disordapp-s3a.com
 0.0.0.0 discord-confirm.ml
 0.0.0.0 steemcommunite.ru
 0.0.0.0 dicsord-gift.com
@@ -10912,7 +10909,7 @@
 0.0.0.0 stemcommunitytrade.fun
 0.0.0.0 enter-to-hypeteam.com
 0.0.0.0 register-of-hypeteams.com
-0.0.0.0 discörd.com
+0.0.0.0 xn--discrd-zxa.com
 0.0.0.0 enter-hypeevents.com
 0.0.0.0 glets-nitro.com
 0.0.0.0 discord-moderator-form.com
